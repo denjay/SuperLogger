@@ -1,6 +1,6 @@
 ## SuperLogger - All-in-One Universal Logger for Visual Studio Code
 
-### Forked from [nuhmanpk/SuperLogger](https://github.com/nuhmanpk/SuperLogger) to solve incorrect in dart.
+### Forked from [nuhmanpk/SuperLogger](https://github.com/nuhmanpk/SuperLogger) to solve errors in dart.
 
 ![SuperLogger Banner](https://raw.githubusercontent.com/nuhmanpk/SuperLogger/main/images/full-logo.png?token=GHSAT0AAAAAAB2DISRCH67IOVHUQJP6Y5CQZHB2MQQ)
 
