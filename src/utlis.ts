@@ -1,17 +1,9 @@
 import * as vscode from 'vscode';
-import { data } from './misc';
+import { emojis } from './misc';
 import { fileExtensions } from './fileExtensions';
-
-// Function to choose a random joke
-export function getRandomJoke(): string {
-    const jokes = data.jokes;
-    const randomIndex = Math.floor(Math.random() * jokes.length);
-    return jokes[randomIndex];
-}
 
 // Function to choose a random emoji
 export function getRandomEmoji(): string {
-    const emojis = data.emojis;
     const randomIndex = Math.floor(Math.random() * emojis.length);
     return emojis[randomIndex];
 }

@@ -1,10 +1,10 @@
 {
-  "name": "superlogger",
-  "displayName": "Super Logger",
+  "name": "super-logger",
+  "displayName": "super-logger",
   "description": "A VS Code extension that enhances debugging in various programming languages by adding fun and informative print statements with random emojis and jokes",
-  "publisher": "nuhmanpk",
+  "publisher": "denjay",
   "icon": "images/logo.png",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nuhmanpk/SuperLogger.git"
+    "url": "https://github.com/denjay/SuperLogger.git"
   },
   "activationEvents": [],
   "main": "./out/extension.js",

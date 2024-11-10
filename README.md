@@ -1,11 +1,10 @@
 ## SuperLogger - All-in-One Universal Logger for Visual Studio Code
 
+### Forked from [nuhmanpk/SuperLogger](https://github.com/nuhmanpk/SuperLogger) to solve incorrect in dart.
+
 ![SuperLogger Banner](https://raw.githubusercontent.com/nuhmanpk/SuperLogger/main/images/full-logo.png?token=GHSAT0AAAAAAB2DISRCH67IOVHUQJP6Y5CQZHB2MQQ)
 
 SuperLogger is a versatile Visual Studio Code extension that enhances your coding experience across various programming languages. It provides entertaining and informative print statements with random emojis and jokes, making debugging a delightful and effective process.
-
-  [![Version](https://img.shields.io/visual-studio-marketplace/v/nuhmanpk.superlogger.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.superlogger)
-  [![Downloads](https://img.shields.io/visual-studio-marketplace/d/nuhmanpk.superlogger.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.superlogger)
 
 ## Supported Languages:
 
